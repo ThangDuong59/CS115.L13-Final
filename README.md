@@ -4,8 +4,8 @@
 # Desciption
 Ở đồ án lần này, tụi mình đã quyết định chọn chủ đề về y khoa - dự đoán một bệnh nhân có mắc bệnh tim hay không dựa vào hồ sơ bệnh án của bệnh nhân bao gồm một vài chỉ số như age, sex, cp(chest pain), chol(serum cholestoral in mg/dl),... sử dụng một bộ dữ liệu có sẵn tên _Heart Disease UCI_ trên Kaggle. [[1]](#1)
 # Details
-* Các file .ipynb chứa code sử dụng thư viện scikit-learn, các bạn chỉ vi
-* Các file .py còn lại là các file mình tự tay implement lại, nhằm mục đích tham khảo cách triển khai model là chính.
+* Các file .ipynb chứa code sử dụng thư viện scikit-learn (Code chính).
+* Các file .py còn lại là các file mình tự tay implement lại (Chỉ dùng để học thêm cách tự triển khai model).
 ## References
 <a id="1">[1]</a> 
 [Heart Disease UCI | Kaggle](https://www.kaggle.com/ronitf/heart-disease-uci)
