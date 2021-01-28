@@ -10,5 +10,5 @@
 ## References
 <a id="1">[1]</a> 
 [Heart Disease Cleveland UCI | Kaggle](https://www.kaggle.com/cherngs/heart-disease-cleveland-uci)
-<a id="2">[2]</a> 
+<a id="2"><br>[2]</a> 
 [Heart Disease and Some scikit-learn Magic | Kaggle](https://www.kaggle.com/datafan07/heart-disease-and-some-scikit-learn-magic/comments)
